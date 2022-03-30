@@ -36,7 +36,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 323; 
+ * @POSICAO-CURSOR = 622; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {m, 6, 10, 1}-{linha, 7, 10, 5}-{coluna, 7, 17, 6}-{soma1, 7, 25, 5}-{soma2, 7, 34, 5}-{n, 7, 43, 1};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

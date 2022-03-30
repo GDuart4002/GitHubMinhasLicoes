@@ -1,6 +1,6 @@
 programa
 {
-	inclua biblioteca Util -->util
+	inclua biblioteca Util -->util
 	
 	funcao inicio()
 	{
@@ -18,12 +18,13 @@ programa
 		}
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 157; 
+ * @POSICAO-CURSOR = 256; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {vet, 8, 10, 3};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
